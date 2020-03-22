@@ -1,6 +1,6 @@
 [//]: # "Image References"
 
-[image1]: https://classroom.udacity.com/nanodegrees/nd893/parts/ec710e48-f1c5-4f1c-82de-39955d168eaa/modules/89b85bd0-0add-4548-bce9-3747eb099e60/lessons/3cf5c0c4-e837-4fe6-8071-489dcdb3ab3e/concepts/da65c741-cdeb-4f34-bb56-d8977385596e "Trained Agent"
+[image1]: https://video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png "Trained Agent"
 
 
 
@@ -74,27 +74,10 @@ For the Training, I used a p2.xlarge type AWS EC2 instance (Ubuntu based Deep Le
    vi requirement.txt` 
    #"Correct requirement.txt as needed"`
    pip install .
-```
-   
-Note: Please comment out jupyter,ipykernel in the "deep-reinforcement-learning/python/requirment.txt" file and install required packages. 
-   
    ```
-   tensorflow==1.7.1
-   Pillow>=4.2.1
-   matplotlib
-   numpy>=1.11.0
-   #jupyter
-   pytest>=3.2.2
-   docopt
-   pyyaml
-   protobuf==3.5.2
-   grpcio==1.11.0
-   torch>=0.4.0
-   pandas
-   scipy
-   #ipykernel
-   ```
-
+   
+   
+   
 
 #### Unity Environment Setup 
 
