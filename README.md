@@ -98,7 +98,7 @@ Then, place the file in the `p3_collab-compet/` folder in the DRLND GitHub repos
 
 ### Instructions
 
-After you have followed the instructions above, open `Tennis.ipynb` and follow the instructions to train the agents.
+After you have followed the instructions above, open `Tennis.ipynb` and follow the instructions to train the agents. `maddpg.py` is a wrapper function that creates and trains multi-agents based on individual agent defined in `ddpg.py` .  `model.py` defines the neural networks of Actor and Critics and `noise.py` defines the noise function that are to be added for action selection. 
 
  
 
